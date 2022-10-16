@@ -1,6 +1,6 @@
 package com.nestDigital.studentApp1;
 
-import org.springframework.boot.SpringApplication;
+import giorg.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
